@@ -13,6 +13,7 @@
 		el.innerHTML = '<span style="font-family: \'icomoon\'">' + entity + '</span>' + html;
 	}
 	var icons = {
+		'gg-ggtech-logo': '&#xe904;',
 		'gg-marker': '&#xe902;',
 		'gg-marker-filled': '&#xe903;',
 		'gg-gavel-down': '&#xe900;',

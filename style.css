@@ -1,17 +1,17 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?b89n4o');
-  src:  url('fonts/icomoon.eot?b89n4o#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?b89n4o') format('truetype'),
-    url('fonts/icomoon.woff?b89n4o') format('woff'),
-    url('fonts/icomoon.svg?b89n4o#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?2ajrxp');
+  src:  url('fonts/icomoon.eot?2ajrxp#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?2ajrxp') format('truetype'),
+    url('fonts/icomoon.woff?2ajrxp') format('woff'),
+    url('fonts/icomoon.svg?2ajrxp#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 
 i {
   /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: 'icomoon';
+  font-family: 'icomoon' !important;
   speak: none;
   font-style: normal;
   font-weight: normal;
@@ -24,6 +24,9 @@ i {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.gg-ggtech-logo:before {
+  content: "\e904";
+}
 .gg-marker:before {
   content: "\e902";
 }
