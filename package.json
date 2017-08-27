@@ -1,0 +1,24 @@
+{
+  "name": "ggtech-font-icons",
+  "version": "1.0.0",
+  "description": "animated icons and stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valengo/ggtech-font-icons.git"
+  },
+  "keywords": [
+    "animated",
+    "font",
+    "icons"
+  ],
+  "author": "= <valengoandressa@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/valengo/ggtech-font-icons/issues"
+  },
+  "homepage": "https://github.com/valengo/ggtech-font-icons#readme"
+}
